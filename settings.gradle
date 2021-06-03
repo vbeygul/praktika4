@@ -1,0 +1,6 @@
+rootProject.name = "praktika4"
+include ':Thread'
+include ':data_thread'
+include ':looper'
+include ':loadermanger'
+include ':workmanager'
